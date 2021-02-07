@@ -2,11 +2,11 @@
 
 ### REQUIREMENTS :
 
-1. Chrome version 88.0.4324.150 or any other version with the corresponding chromedriver.exe
+1. Chrome version 88.0.4324.150 or any other version with the corresponding [chromedriver.exe](https://chromedriver.chromium.org/)
 
-2. Python 3+ with selenium & pytesseract
+2. [Python 3+](python.org) with [selenium](https://chromedriver.chromium.org/) & [pytesseract](https://pypi.org/project/pytesseract/)
 
-3. [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/)
+3. [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/) 5.0.0+
 
 ### HOW TO USE :
 
