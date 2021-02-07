@@ -6,7 +6,7 @@ import time
 image_path = "Capture.PNG"
 text = image_to_string(Image.open(image_path), lang="fra")
 
-time.sleep(1)
+time.sleep(2)
 
 wait_duration = 0.035
 
