@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import random
 
-mail = "wipak35813@poetred.com"
-password = "12345678909912002AZERTYHGFDSQWXCVBN"
+mail = "PUT YOUR 10FASTFINGERS ACCOUNT EMAIL HERE"
+password = "PUT YOUR 10FASTFINGERS ACCOUNT PASSWORD HERE"
 login_url = "https://10fastfingers.com/login"
 type_url = "https://10fastfingers.com/typing-test/french"
 
